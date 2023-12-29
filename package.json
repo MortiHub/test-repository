@@ -21,7 +21,7 @@
     "deploy": "gh-pages -d build"
   },
   "repository": {
-    "url": "https://github.com/MortiHubT/test-repository"
+    "url": "https://github.com/MortiHub/test-repository"
   },
   "eslintConfig": {
     "extends": [
