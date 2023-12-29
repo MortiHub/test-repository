@@ -1,6 +1,6 @@
 {
   "name": "test-app",
-  "homepage": "https://CO6PKUST.github.io/test-repository/",
+  "homepage": "https://MortiHub.github.io/test-repository/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -21,7 +21,7 @@
     "deploy": "gh-pages -d build"
   },
   "repository": {
-    "url": "https://github.com/CO6PKUST/test-repository"
+    "url": "https://github.com/MortiHubT/test-repository"
   },
   "eslintConfig": {
     "extends": [
